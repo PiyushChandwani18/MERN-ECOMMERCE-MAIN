@@ -55,13 +55,13 @@
 ### Clone the project
 
 ```bash
-  git clone https://github.com/RishiBakshii/mern-ecommerce.git
+  git clone https://github.com/PiyushChandwani18/MERN-ECOMMERCE-MAIN.git
 ```
 
 ### Navigate to the project directory
 
 ```bash
-  cd mern-ecommerce
+  cd mern-ecommerce-main
 ```
 
 ### Install dependencies for frontend and backend separately
